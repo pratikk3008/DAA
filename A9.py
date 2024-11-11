@@ -89,4 +89,4 @@ n = len(arr)
 
 max_profit = knapsack(W, arr, n)
 print("Maximum possible profit =", max_profit)
-#O(N!)
+#O(2^n)
