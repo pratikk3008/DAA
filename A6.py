@@ -50,3 +50,4 @@ if __name__ == '__main__':
     freq = [34, 8, 50]
     n = len(keys)
     print("Cost of Optimal BST is", optimalSearchTree(keys, freq, n))
+#o(n^3)
