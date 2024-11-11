@@ -158,3 +158,5 @@ print("Minimum cost :", final_res)
 print("Path Taken : ", end = ' ')
 for i in range(N + 1):
 	print(final_path[i], end = ' ')
+#O(n!)	
+	
