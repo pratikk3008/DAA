@@ -39,3 +39,4 @@ Example Usage
 
   # Output: 210
 '''
+#o(n log n)
