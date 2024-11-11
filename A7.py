@@ -37,3 +37,4 @@ def printBoard(board):
 board = [[0 for x in range(N)] for y in range(N)]
 if not solveNQueens(board, 0):
     print("No solution found")
+#O(N!)
