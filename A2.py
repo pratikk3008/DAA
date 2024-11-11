@@ -35,3 +35,4 @@ if __name__ == "__main__":
     
     for val in arr:
         print(val, end=" ") 
+#O(n log n)
