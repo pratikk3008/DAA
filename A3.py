@@ -53,3 +53,4 @@ while len(nodes) > 1:
   
 # Huffman Tree is ready! 
 printNodes(nodes[0])
+#O(n log n)
