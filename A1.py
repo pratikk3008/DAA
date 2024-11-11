@@ -25,3 +25,4 @@ if __name__ == '__main__':
         print("The elemet is found at position at :",result)
     else:
         print("The element is not found!")
+#𝑂(log n)
