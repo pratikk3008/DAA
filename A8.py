@@ -57,3 +57,4 @@ if __name__ == "__main__":
 
     # Function call
     graph_coloring(graph, m)
+#O(M^V) M=no.of colors V=no.of vertices
