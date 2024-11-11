@@ -22,3 +22,4 @@ if __name__ == '__main__':
     W = 50
     n = len(profit)
     print ("The maximum Profit gained is : ",knapSack(W, weight, profit, n))
+#o(n W)
